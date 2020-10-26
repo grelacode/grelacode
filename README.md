@@ -2,7 +2,7 @@
 
 I am software developer and Software Engineering student. 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arsys.es%2Fblog%2Fprogramacion%2Fventajas-nodejs%2F&psig=AOvVaw0tE-cFk_VF9ra36_jMdxJQ&ust=1603819112920000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiVgvjh0uwCFQAAAAAdAAAAABAN)
+![alt text](https://www.arsys.es/blog/file/uploads/2017/04/NodeJS.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
