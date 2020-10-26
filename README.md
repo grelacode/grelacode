@@ -2,7 +2,7 @@
 
 I am software developer and Software Engineering student. 
 
-![alt text](https://www.arsys.es/blog/file/uploads/2017/04/NodeJS.jpg)
+![alt text](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
