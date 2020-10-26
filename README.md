@@ -2,7 +2,7 @@
 
 I am software developer and Software Engineering student. 
 
-![img_4286a-350x233](https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png)
+![img_4286a-350x233](https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png = 20x20)
 
 
 
